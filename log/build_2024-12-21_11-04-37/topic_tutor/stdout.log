@@ -1,0 +1,20 @@
+[100%] Built target topic_pub_sub
+-- Install configuration: ""
+-- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/lib/topic_tutor/topic_pub_sub
+-- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/topic_tutor/launch
+-- Installing: /home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/topic_tutor/launch/topic_pub_sub_launch.py
+-- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/ament_index/resource_index/package_run_dependencies/topic_tutor
+-- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/ament_index/resource_index/parent_prefix_path/topic_tutor
+-- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/topic_tutor/environment/ament_prefix_path.sh
+-- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/topic_tutor/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/topic_tutor/environment/path.sh
+-- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/topic_tutor/environment/path.dsv
+-- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/topic_tutor/local_setup.bash
+-- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/topic_tutor/local_setup.sh
+-- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/topic_tutor/local_setup.zsh
+-- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/topic_tutor/local_setup.dsv
+-- Installing: /home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/topic_tutor/package.dsv
+-- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/ament_index/resource_index/packages/topic_tutor
+-- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/topic_tutor/cmake/topic_tutorConfig.cmake
+-- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/topic_tutor/cmake/topic_tutorConfig-version.cmake
+-- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/topic_tutor/package.xml

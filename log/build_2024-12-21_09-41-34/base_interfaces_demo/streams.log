@@ -1,0 +1,210 @@
+[0.007s] Invoking command in '/home/lirj25/ros2tutorial/ws_topic/build/base_interfaces_demo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/lirj25/ros2tutorial/ws_topic/src/base_interfaces_demo -DCMAKE_INSTALL_PREFIX=/home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo
+[0.015s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.095s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.096s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.097s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.116s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.297s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[0.418s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.575s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.592s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[0.593s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[0.611s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[0.611s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.611s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[0.611s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[0.627s] -- Found PythonExtra: .so  
+[0.649s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.655s] -- Configuring done
+[0.670s] -- Generating done
+[0.676s] -- Build files have been written to: /home/lirj25/ros2tutorial/ws_topic/build/base_interfaces_demo
+[0.679s] Invoked command in '/home/lirj25/ros2tutorial/ws_topic/build/base_interfaces_demo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/lirj25/ros2tutorial/ws_topic/src/base_interfaces_demo -DCMAKE_INSTALL_PREFIX=/home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo
+[0.680s] Invoking command in '/home/lirj25/ros2tutorial/ws_topic/build/base_interfaces_demo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/lirj25/ros2tutorial/ws_topic/build/base_interfaces_demo -- -j20 -l20
+[0.704s] [  3%] [34m[1mGenerating C code for ROS interfaces[0m
+[0.711s] [  6%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[0.716s] [  6%] Built target ament_cmake_python_copy_base_interfaces_demo
+[0.872s] [  6%] Built target base_interfaces_demo__cpp
+[0.874s] running egg_info
+[0.875s] creating base_interfaces_demo.egg-info
+[0.875s] writing base_interfaces_demo.egg-info/PKG-INFO
+[0.875s] writing dependency_links to base_interfaces_demo.egg-info/dependency_links.txt
+[0.875s] writing top-level names to base_interfaces_demo.egg-info/top_level.txt
+[0.875s] writing manifest file 'base_interfaces_demo.egg-info/SOURCES.txt'
+[0.877s] reading manifest file 'base_interfaces_demo.egg-info/SOURCES.txt'
+[0.878s] writing manifest file 'base_interfaces_demo.egg-info/SOURCES.txt'
+[0.878s] [  9%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[0.880s] [ 12%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[0.880s] [ 16%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[0.895s] [ 19%] [32mBuilding C object CMakeFiles/base_interfaces_demo__rosidl_generator_c.dir/rosidl_generator_c/base_interfaces_demo/msg/detail/topic_pub_sub__functions.c.o[0m
+[0.898s] [ 19%] Built target ament_cmake_python_build_base_interfaces_demo_egg
+[0.941s] [ 22%] [32m[1mLinking C shared library libbase_interfaces_demo__rosidl_generator_c.so[0m
+[0.971s] [ 22%] Built target base_interfaces_demo__rosidl_generator_c
+[0.979s] [ 25%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[0.981s] [ 32%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[0.981s] [ 32%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[1.061s] [ 35%] [32mBuilding CXX object CMakeFiles/base_interfaces_demo__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/base_interfaces_demo/msg/topic_pub_sub__type_support.cpp.o[0m
+[1.065s] [ 38%] [32mBuilding CXX object CMakeFiles/base_interfaces_demo__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/base_interfaces_demo/msg/detail/topic_pub_sub__type_support.cpp.o[0m
+[1.082s] [ 41%] [32mBuilding CXX object CMakeFiles/base_interfaces_demo__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/base_interfaces_demo/msg/detail/dds_fastrtps/topic_pub_sub__type_support.cpp.o[0m
+[1.169s] [ 45%] [32mBuilding CXX object CMakeFiles/base_interfaces_demo__rosidl_typesupport_c.dir/rosidl_typesupport_c/base_interfaces_demo/msg/topic_pub_sub__type_support.cpp.o[0m
+[1.179s] [ 48%] [32mBuilding C object CMakeFiles/base_interfaces_demo__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/base_interfaces_demo/msg/detail/topic_pub_sub__type_support.c.o[0m
+[1.200s] [ 51%] [32m[1mLinking CXX shared library libbase_interfaces_demo__rosidl_typesupport_c.so[0m
+[1.205s] [ 54%] [32m[1mLinking C shared library libbase_interfaces_demo__rosidl_typesupport_introspection_c.so[0m
+[1.224s] [ 58%] [32mBuilding CXX object CMakeFiles/base_interfaces_demo__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/base_interfaces_demo/msg/detail/topic_pub_sub__type_support_c.cpp.o[0m
+[1.232s] [ 58%] Built target base_interfaces_demo__rosidl_typesupport_introspection_c
+[1.234s] [ 58%] Built target base_interfaces_demo__rosidl_typesupport_c
+[1.261s] [ 61%] [32m[1mLinking CXX shared library libbase_interfaces_demo__rosidl_typesupport_cpp.so[0m
+[1.296s] [ 61%] Built target base_interfaces_demo__rosidl_typesupport_cpp
+[1.369s] [ 64%] [32m[1mLinking CXX shared library libbase_interfaces_demo__rosidl_typesupport_introspection_cpp.so[0m
+[1.403s] [ 67%] [32m[1mLinking CXX shared library libbase_interfaces_demo__rosidl_typesupport_fastrtps_cpp.so[0m
+[1.417s] [ 67%] Built target base_interfaces_demo__rosidl_typesupport_introspection_cpp
+[1.448s] [ 70%] [32m[1mLinking CXX shared library libbase_interfaces_demo__rosidl_typesupport_fastrtps_c.so[0m
+[1.454s] [ 70%] Built target base_interfaces_demo__rosidl_typesupport_fastrtps_cpp
+[1.495s] [ 70%] Built target base_interfaces_demo__rosidl_typesupport_fastrtps_c
+[1.508s] [ 70%] Built target base_interfaces_demo
+[1.522s] [ 74%] [34m[1mGenerating Python code for ROS interfaces[0m
+[1.690s] [ 74%] Built target base_interfaces_demo__py
+[1.703s] [ 77%] [32mBuilding C object CMakeFiles/base_interfaces_demo__rosidl_generator_py.dir/rosidl_generator_py/base_interfaces_demo/msg/_topic_pub_sub_s.c.o[0m
+[1.773s] [ 80%] [32m[1mLinking C shared library rosidl_generator_py/base_interfaces_demo/libbase_interfaces_demo__rosidl_generator_py.so[0m
+[1.800s] [ 80%] Built target base_interfaces_demo__rosidl_generator_py
+[1.815s] [ 87%] [32mBuilding C object CMakeFiles/base_interfaces_demo__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/base_interfaces_demo/_base_interfaces_demo_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[1.815s] [ 90%] [32mBuilding C object CMakeFiles/base_interfaces_demo__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/base_interfaces_demo/_base_interfaces_demo_s.ep.rosidl_typesupport_c.c.o[0m
+[1.815s] [ 90%] [32mBuilding C object CMakeFiles/base_interfaces_demo__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/base_interfaces_demo/_base_interfaces_demo_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[1.869s] [ 93%] [32m[1mLinking C shared library rosidl_generator_py/base_interfaces_demo/base_interfaces_demo_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[1.870s] [ 96%] [32m[1mLinking C shared library rosidl_generator_py/base_interfaces_demo/base_interfaces_demo_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[1.872s] [100%] [32m[1mLinking C shared library rosidl_generator_py/base_interfaces_demo/base_interfaces_demo_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[1.891s] [100%] Built target base_interfaces_demo__rosidl_typesupport_introspection_c__pyext
+[1.891s] [100%] Built target base_interfaces_demo__rosidl_typesupport_c__pyext
+[1.893s] [100%] Built target base_interfaces_demo__rosidl_typesupport_fastrtps_c__pyext
+[1.902s] Invoked command in '/home/lirj25/ros2tutorial/ws_topic/build/base_interfaces_demo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/lirj25/ros2tutorial/ws_topic/build/base_interfaces_demo -- -j20 -l20
+[1.908s] Invoking command in '/home/lirj25/ros2tutorial/ws_topic/build/base_interfaces_demo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/lirj25/ros2tutorial/ws_topic/build/base_interfaces_demo
+[1.914s] -- Install configuration: ""
+[1.914s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/ament_index/resource_index/rosidl_interfaces/base_interfaces_demo
+[1.914s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo
+[1.914s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg
+[1.914s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg/detail
+[1.914s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg/detail/topic_pub_sub__struct.h
+[1.914s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg/detail/topic_pub_sub__type_support.h
+[1.914s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg/detail/topic_pub_sub__functions.h
+[1.914s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg/detail/topic_pub_sub__functions.c
+[1.914s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg/topic_pub_sub.h
+[1.914s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg/rosidl_generator_c__visibility_control.h
+[1.914s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/environment/library_path.sh
+[1.914s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/environment/library_path.dsv
+[1.915s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/lib/libbase_interfaces_demo__rosidl_generator_c.so
+[1.915s] -- Set runtime path of "/home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/lib/libbase_interfaces_demo__rosidl_generator_c.so" to ""
+[1.915s] -- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo
+[1.915s] -- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg
+[1.915s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[1.915s] -- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg/detail
+[1.915s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg/detail/topic_pub_sub__rosidl_typesupport_fastrtps_c.h
+[1.915s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/lib/libbase_interfaces_demo__rosidl_typesupport_fastrtps_c.so
+[1.915s] -- Set runtime path of "/home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/lib/libbase_interfaces_demo__rosidl_typesupport_fastrtps_c.so" to ""
+[1.915s] -- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo
+[1.915s] -- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg
+[1.915s] -- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg/detail
+[1.915s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg/detail/topic_pub_sub__rosidl_typesupport_introspection_c.h
+[1.916s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg/detail/topic_pub_sub__type_support.c
+[1.916s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[1.916s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/lib/libbase_interfaces_demo__rosidl_typesupport_introspection_c.so
+[1.916s] -- Set runtime path of "/home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/lib/libbase_interfaces_demo__rosidl_typesupport_introspection_c.so" to ""
+[1.916s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/lib/libbase_interfaces_demo__rosidl_typesupport_c.so
+[1.916s] -- Set runtime path of "/home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/lib/libbase_interfaces_demo__rosidl_typesupport_c.so" to ""
+[1.916s] -- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo
+[1.916s] -- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg
+[1.916s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg/topic_pub_sub.hpp
+[1.916s] -- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg/detail
+[1.916s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg/detail/topic_pub_sub__traits.hpp
+[1.916s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg/detail/topic_pub_sub__struct.hpp
+[1.916s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg/detail/topic_pub_sub__builder.hpp
+[1.917s] -- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo
+[1.917s] -- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg
+[1.917s] -- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg/detail
+[1.917s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg/detail/dds_fastrtps
+[1.917s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg/detail/topic_pub_sub__rosidl_typesupport_fastrtps_cpp.hpp
+[1.917s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[1.917s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/lib/libbase_interfaces_demo__rosidl_typesupport_fastrtps_cpp.so
+[1.917s] -- Set runtime path of "/home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/lib/libbase_interfaces_demo__rosidl_typesupport_fastrtps_cpp.so" to ""
+[1.917s] -- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo
+[1.917s] -- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg
+[1.917s] -- Up-to-date: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg/detail
+[1.917s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg/detail/topic_pub_sub__type_support.cpp
+[1.917s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/include/base_interfaces_demo/base_interfaces_demo/msg/detail/topic_pub_sub__rosidl_typesupport_introspection_cpp.hpp
+[1.917s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/lib/libbase_interfaces_demo__rosidl_typesupport_introspection_cpp.so
+[1.918s] -- Set runtime path of "/home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/lib/libbase_interfaces_demo__rosidl_typesupport_introspection_cpp.so" to ""
+[1.918s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/lib/libbase_interfaces_demo__rosidl_typesupport_cpp.so
+[1.918s] -- Set runtime path of "/home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/lib/libbase_interfaces_demo__rosidl_typesupport_cpp.so" to ""
+[1.918s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/environment/pythonpath.sh
+[1.918s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/environment/pythonpath.dsv
+[1.918s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/local/lib/python3.10/dist-packages/base_interfaces_demo-0.0.0-py3.10.egg-info
+[1.918s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/local/lib/python3.10/dist-packages/base_interfaces_demo-0.0.0-py3.10.egg-info/PKG-INFO
+[1.918s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/local/lib/python3.10/dist-packages/base_interfaces_demo-0.0.0-py3.10.egg-info/top_level.txt
+[1.918s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/local/lib/python3.10/dist-packages/base_interfaces_demo-0.0.0-py3.10.egg-info/dependency_links.txt
+[1.918s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/local/lib/python3.10/dist-packages/base_interfaces_demo-0.0.0-py3.10.egg-info/SOURCES.txt
+[1.918s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/local/lib/python3.10/dist-packages/base_interfaces_demo
+[1.918s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/local/lib/python3.10/dist-packages/base_interfaces_demo/base_interfaces_demo_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.918s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/local/lib/python3.10/dist-packages/base_interfaces_demo/__init__.py
+[1.918s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/local/lib/python3.10/dist-packages/base_interfaces_demo/base_interfaces_demo_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.918s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/local/lib/python3.10/dist-packages/base_interfaces_demo/msg
+[1.918s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/local/lib/python3.10/dist-packages/base_interfaces_demo/msg/__init__.py
+[1.918s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/local/lib/python3.10/dist-packages/base_interfaces_demo/msg/_topic_pub_sub_s.c
+[1.918s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/local/lib/python3.10/dist-packages/base_interfaces_demo/msg/_topic_pub_sub.py
+[1.919s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/local/lib/python3.10/dist-packages/base_interfaces_demo/_base_interfaces_demo_s.ep.rosidl_typesupport_c.c
+[1.919s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/local/lib/python3.10/dist-packages/base_interfaces_demo/_base_interfaces_demo_s.ep.rosidl_typesupport_fastrtps_c.c
+[1.919s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/local/lib/python3.10/dist-packages/base_interfaces_demo/libbase_interfaces_demo__rosidl_generator_py.so
+[1.919s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/local/lib/python3.10/dist-packages/base_interfaces_demo/base_interfaces_demo_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.919s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/local/lib/python3.10/dist-packages/base_interfaces_demo/_base_interfaces_demo_s.ep.rosidl_typesupport_introspection_c.c
+[1.939s] Listing '/home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/local/lib/python3.10/dist-packages/base_interfaces_demo'...
+[1.939s] Compiling '/home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/local/lib/python3.10/dist-packages/base_interfaces_demo/__init__.py'...
+[1.940s] Listing '/home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/local/lib/python3.10/dist-packages/base_interfaces_demo/msg'...
+[1.940s] Compiling '/home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/local/lib/python3.10/dist-packages/base_interfaces_demo/msg/__init__.py'...
+[1.940s] Compiling '/home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/local/lib/python3.10/dist-packages/base_interfaces_demo/msg/_topic_pub_sub.py'...
+[1.943s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/local/lib/python3.10/dist-packages/base_interfaces_demo/base_interfaces_demo_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.943s] -- Set runtime path of "/home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/local/lib/python3.10/dist-packages/base_interfaces_demo/base_interfaces_demo_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+[1.943s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/local/lib/python3.10/dist-packages/base_interfaces_demo/base_interfaces_demo_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.943s] -- Set runtime path of "/home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/local/lib/python3.10/dist-packages/base_interfaces_demo/base_interfaces_demo_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+[1.943s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/local/lib/python3.10/dist-packages/base_interfaces_demo/base_interfaces_demo_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.943s] -- Set runtime path of "/home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/local/lib/python3.10/dist-packages/base_interfaces_demo/base_interfaces_demo_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+[1.943s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/lib/libbase_interfaces_demo__rosidl_generator_py.so
+[1.943s] -- Set runtime path of "/home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/lib/libbase_interfaces_demo__rosidl_generator_py.so" to ""
+[1.943s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/msg/TopicPubSub.idl
+[1.943s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/msg/TopicPubSub.msg
+[1.943s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/ament_index/resource_index/package_run_dependencies/base_interfaces_demo
+[1.943s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/ament_index/resource_index/parent_prefix_path/base_interfaces_demo
+[1.944s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/environment/ament_prefix_path.sh
+[1.944s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/environment/ament_prefix_path.dsv
+[1.944s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/environment/path.sh
+[1.944s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/environment/path.dsv
+[1.944s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/local_setup.bash
+[1.944s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/local_setup.sh
+[1.944s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/local_setup.zsh
+[1.944s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/local_setup.dsv
+[1.944s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/package.dsv
+[1.944s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/ament_index/resource_index/packages/base_interfaces_demo
+[1.944s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/cmake/export_base_interfaces_demo__rosidl_generator_cExport.cmake
+[1.944s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/cmake/export_base_interfaces_demo__rosidl_generator_cExport-noconfig.cmake
+[1.944s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/cmake/export_base_interfaces_demo__rosidl_typesupport_fastrtps_cExport.cmake
+[1.944s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/cmake/export_base_interfaces_demo__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[1.944s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/cmake/base_interfaces_demo__rosidl_typesupport_introspection_cExport.cmake
+[1.944s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/cmake/base_interfaces_demo__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[1.944s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/cmake/base_interfaces_demo__rosidl_typesupport_cExport.cmake
+[1.944s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/cmake/base_interfaces_demo__rosidl_typesupport_cExport-noconfig.cmake
+[1.945s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/cmake/export_base_interfaces_demo__rosidl_generator_cppExport.cmake
+[1.945s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/cmake/export_base_interfaces_demo__rosidl_typesupport_fastrtps_cppExport.cmake
+[1.945s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/cmake/export_base_interfaces_demo__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[1.945s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/cmake/base_interfaces_demo__rosidl_typesupport_introspection_cppExport.cmake
+[1.945s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/cmake/base_interfaces_demo__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[1.945s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/cmake/base_interfaces_demo__rosidl_typesupport_cppExport.cmake
+[1.945s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/cmake/base_interfaces_demo__rosidl_typesupport_cppExport-noconfig.cmake
+[1.945s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/cmake/export_base_interfaces_demo__rosidl_generator_pyExport.cmake
+[1.945s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/cmake/export_base_interfaces_demo__rosidl_generator_pyExport-noconfig.cmake
+[1.945s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/cmake/rosidl_cmake-extras.cmake
+[1.945s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.945s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/cmake/ament_cmake_export_libraries-extras.cmake
+[1.945s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/cmake/ament_cmake_export_targets-extras.cmake
+[1.945s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[1.945s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.945s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[1.945s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/cmake/base_interfaces_demoConfig.cmake
+[1.945s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/cmake/base_interfaces_demoConfig-version.cmake
+[1.946s] -- Installing: /home/lirj25/ros2tutorial/ws_topic/install/base_interfaces_demo/share/base_interfaces_demo/package.xml
+[1.947s] Invoked command in '/home/lirj25/ros2tutorial/ws_topic/build/base_interfaces_demo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/lirj25/ros2tutorial/ws_topic/build/base_interfaces_demo

@@ -1,0 +1,17 @@
+/home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/lib/topic_tutor/topic_pub_sub
+/home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/topic_tutor/launch/topic_pub_sub_launch.py
+/home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/ament_index/resource_index/package_run_dependencies/topic_tutor
+/home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/ament_index/resource_index/parent_prefix_path/topic_tutor
+/home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/topic_tutor/environment/ament_prefix_path.sh
+/home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/topic_tutor/environment/ament_prefix_path.dsv
+/home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/topic_tutor/environment/path.sh
+/home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/topic_tutor/environment/path.dsv
+/home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/topic_tutor/local_setup.bash
+/home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/topic_tutor/local_setup.sh
+/home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/topic_tutor/local_setup.zsh
+/home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/topic_tutor/local_setup.dsv
+/home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/topic_tutor/package.dsv
+/home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/ament_index/resource_index/packages/topic_tutor
+/home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/topic_tutor/cmake/topic_tutorConfig.cmake
+/home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/topic_tutor/cmake/topic_tutorConfig-version.cmake
+/home/lirj25/ros2tutorial/ws_topic/install/topic_tutor/share/topic_tutor/package.xml

@@ -1,0 +1,6 @@
+{
+  "package_name": "base_interfaces_demo",
+  "non_idl_tuples": [
+    "/home/lirj25/ros2tutorial/ws_topic/src/base_interfaces_demo:msg/TopicPubSub.msg"
+  ]
+}
